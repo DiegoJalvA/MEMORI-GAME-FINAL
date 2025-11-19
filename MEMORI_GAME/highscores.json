@@ -1,0 +1,44 @@
+{
+  "País-Capital": {
+    "Fácil": {
+      "puntos": 6,
+      "tiempo": 23.201822996139526
+    },
+    "Medio": {
+      "puntos": 0,
+      "tiempo": Infinity
+    },
+    "Difícil": {
+      "puntos": 0,
+      "tiempo": Infinity
+    }
+  },
+  "Matemáticas": {
+    "Fácil": {
+      "puntos": 0,
+      "tiempo": Infinity
+    },
+    "Medio": {
+      "puntos": 0,
+      "tiempo": Infinity
+    },
+    "Difícil": {
+      "puntos": 0,
+      "tiempo": Infinity
+    }
+  },
+  "Español-Inglés": {
+    "Fácil": {
+      "puntos": 0,
+      "tiempo": Infinity
+    },
+    "Medio": {
+      "puntos": 0,
+      "tiempo": Infinity
+    },
+    "Difícil": {
+      "puntos": 0,
+      "tiempo": Infinity
+    }
+  }
+}

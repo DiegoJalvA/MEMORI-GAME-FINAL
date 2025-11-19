@@ -1,0 +1,47 @@
+{
+  "logros_desbloqueados": {
+    "PRIMER_PAR": {
+      "fecha": "2025-11-19T00:14:34.731164",
+      "puntos": 5,
+      "nombre": "Primer Par Encontrado",
+      "icono": ""
+    }
+  },
+  "estadisticas": {
+    "total_partidas": 1,
+    "partidas_ganadas": 1,
+    "total_pares_encontrados": 6,
+    "total_errores": 7,
+    "tiempo_total_jugado": 23.201822996139526,
+    "partidas_por_modo": {
+      "País-Capital": 0,
+      "Matemáticas": 0,
+      "Español-Inglés": 0,
+      "Supervivencia": 0
+    },
+    "partidas_por_dificultad": {
+      "Fácil": 0,
+      "Medio": 0,
+      "Difícil": 0
+    },
+    "victorias_multijugador": 0,
+    "racha_actual_victorias": 0,
+    "mejor_racha_victorias": 0,
+    "salas_creadas": 0,
+    "salas_unidas": 0,
+    "mejor_tiempo_supervivencia": 0,
+    "tutoriales_completados": 1,
+    "modos_jugados": [
+      "País-Capital"
+    ],
+    "records_establecidos": []
+  },
+  "progreso_logros": {
+    "TUTORIAL_COMPLETO": 1,
+    "EXPLORADOR_MODOS": 1,
+    "INICIADO_FACIL": 0,
+    "MAESTRO_PAISES": 0
+  },
+  "puntos_totales": 5,
+  "nivel": 1
+}
